@@ -11,8 +11,5 @@
 
 
 def square_array(array)
-  # my_arr = []
-  # my_arr <<
   array.map! { |ele| ele ** 2 }
-  # return my_arr
 end
